@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrix&layout=compact&theme=github_dark&border_color=30363d"
+    media="(prefers-color-scheme: dark)">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrix&layout=compact&theme=default"
+    media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrix&layout=compact">
+</picture>
+
 <!--
 **nxrix/nxrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
