@@ -4,7 +4,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](https://threejs.org/)
 ![WebGL](https://img.shields.io/badge/WebGL-900?logo=webgl&logoColor=fff)
 ![GLSL](https://img.shields.io/badge/GLSL-5586a4?logo=opengl&logoColor=fff)
-[![Observable](https://img.shields.io/badge/Observable-353e58?logo=observable&logoColor=fff)](https://observablehq.com/)
+[![Observable](https://img.shields.io/badge/Observable-353e58?logo=observable&logoColor=fff)](https://observablehq.com/@nxrix)
 
 <picture>
   <source
